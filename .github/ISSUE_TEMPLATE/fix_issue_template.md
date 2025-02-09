@@ -1,6 +1,6 @@
 ---
-name: 젭알젭알
-about: 왜안되는겨
+name: fix_issue_template
+about: fixfixfixfix
 title: ''
 labels: ''
 assignees: ''
